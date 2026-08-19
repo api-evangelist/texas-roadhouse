@@ -17,7 +17,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/texas-road
 description: 'Profile for Texas Roadhouse in the API Evangelist network. Fortune F1000 (rank 829).'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/texas-roadhouse
